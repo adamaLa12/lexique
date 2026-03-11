@@ -4,18 +4,29 @@
 
 | Terme technique | Définition & différence si besoin |
 | --------------- | --------------------------------- |
-| Design pattern  |                                   |
-| MVC             |                                   |
-| Architecture    |                                   |
+| Design pattern  |  Modèle de conception réutilisable pour organiser du code.
+
+| MVC             |  Model View Controller est un pattern d'architecture, qui permet 
+                    d'organiser ses seveurs HTTP afin 
+                    d'éviter certains problèmes, principalement 
+                    les répetitions.
+                                             |
+| Architecture    |    Plan global dans un système.
+                               |
 
 ### BACK
 
 | Terme technique | Définition & différence si besoin |
 | --------------- | --------------------------------- | --- |
-| API             | Aplication Programming Interface  |     |
-| REST            |                                   |
-| CRUD            |                                   |
-| ORM             |                                   |
+| API             | Aplication Programming Interface est une interface qui permet à deux logiciels de communiquer entre eux. Elle définit un ensemble de règles, endpoints et formats de données permettant à une application d'utiliser les fonctionnalités ou les données d'une autre aplication. |
+
+| REST            | Representaion State transfer ce qui signifie en français  "Transfert d'État Réprésentatif". C'est un style d'architecture pour les services web qui utilise les protocoles HTTP et HTTPPS pour créer des interfaces web entre applications. 
+                             
+
+| CRUD            |       Created Read update Delete est un acronyme utilisé en informatique pour désigner les quatres opérations fondamentales permettant de manipuler des données dans une base de données ou une application.                           |
+
+
+| ORM             |   Object-Relational Mapping est une technique de programmation qui permet de faire le lien entre une base de données relationnelle    et un language de programmation orienté objet. Il permets aux développeurs de manipuler les données de base de données en utilisant des objets et des methodes plutôt que de devoir écrire les réquettes SQL complexes.                               |
 
 ### BASE DE DONNÉES
 
